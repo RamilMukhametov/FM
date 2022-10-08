@@ -15,4 +15,4 @@ For specific lib versions, see `requirements.txt` and install them with
 
 
 # Contact
-If you have any questions, please post a Github issue or email: *moukhamet.ramil@gmail.com
+If you have any questions, please post a Github issue or email: moukhamet.ramil@gmail.com
