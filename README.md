@@ -1,4 +1,5 @@
-Dependencies and Library Versions
-For specific lib versions, see requirements.txt and install them with
+# Dependencies and Library Versions
 
-pip install -r requirements.txt
+For specific lib versions, see `requirements.txt` and install them with
+
+```pip install -r requirements.txt```
