@@ -2,7 +2,7 @@
 
 The Fashion MNIST dataset is a large freely available database of fashion images that is commonly used for training and testing various machine learning systems.
 
-`main.py` - script for training the image recognition model
+`main.py` - training the image recognition model
 
 `model.pth` - saved image recognition model
 
